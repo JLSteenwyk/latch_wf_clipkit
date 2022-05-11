@@ -1,12 +1,12 @@
 <p align="center">
     <a href="https://latch.bio/">
-        <img src="images/clipkit_logo.jpg">
+        <img src="images/clipkit_logo.jpg" width=37.5%>
     </a>
-    <span style="font-size:largee;">X</span>
     <a href="https://latch.bio/">
-        <img src="images/latch_logo.png">
+        <img src="images/latch_logo.png" width=50%>
     </a>
     <a href="https://console.latch.bio/explore/59878/info">
+    <br/>
     <span style="font-size:larger;">Click here to see the workflow!</span></br>
     </a>
     </br></br>
