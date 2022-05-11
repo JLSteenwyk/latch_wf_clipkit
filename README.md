@@ -1,8 +1,11 @@
-<a href="https://latch.bio/">
-    <img src="images/latch_logo.png">
-</a>
-
 <p align="center">
+    <a href="https://latch.bio/">
+        <img src="images/clipkit_logo.jpg">
+    </a>
+    <span style="font-size:largee;">X</span>
+    <a href="https://latch.bio/">
+        <img src="images/latch_logo.png">
+    </a>
     <a href="https://console.latch.bio/explore/59878/info">
     <span style="font-size:larger;">Click here to see the workflow!</span></br>
     </a>
